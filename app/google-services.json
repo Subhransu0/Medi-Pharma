@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "464715197767",
+    "firebase_url": "https://medi-farma-default-rtdb.firebaseio.com",
+    "project_id": "medi-farma",
+    "storage_bucket": "medi-farma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464715197767:android:763fb2ac739ad17faa7062",
+        "android_client_info": {
+          "package_name": "com.example.adminpharmarcyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464715197767-6t1rh06k43auqi8i5sf5buhvuprcf06h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminpharmarcyapplication",
+            "certificate_hash": "df3e966d32d8170461fc0f6b199e8023f08e9fb9"
+          }
+        },
+        {
+          "client_id": "464715197767-n90n3gtuvcb3057iljn64sb6cctdk7j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0o35g7cNrVoYGCjICshNxGkTppVz0WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464715197767-n90n3gtuvcb3057iljn64sb6cctdk7j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464715197767:android:b5c8ab73f7ab3dbfaa7062",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464715197767-n90n3gtuvcb3057iljn64sb6cctdk7j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0o35g7cNrVoYGCjICshNxGkTppVz0WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464715197767-n90n3gtuvcb3057iljn64sb6cctdk7j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

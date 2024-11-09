@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pharmacy Application</string>
+    <string name="home_delivery_service">Home Delivery Service</string>
+    <string name="next">Next</string>
+    <string name="pharmacy_store">PHARMACY STORE</string>
+    <string name="google">Google</string>
+    <string name="continue_with">Continue With</string>
+    <string name="login">Login</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="f">Facebook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
